@@ -1,15 +1,8 @@
 {
-  "name": "videochat-sample",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "start": "node app.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "express": "^4.17.1"
-  }
+ "name": "project",
+ "description": "a really cool app",
+ "version": "1.0.0",
+ "engines": {
+   "node": "12.11.1"
+   }
 }
